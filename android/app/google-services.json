@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727921471241",
+    "project_id": "gita-nagari",
+    "storage_bucket": "gita-nagari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727921471241:android:f17f48d31f1acb81932dd8",
+        "android_client_info": {
+          "package_name": "com.surabhi.flutter_gitanagari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727921471241-ebthgvr357h1pp6tkjdnk235mv07glq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__l4JHuYRTrP8tJznJ4__nDS7OQXaJng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727921471241-ebthgvr357h1pp6tkjdnk235mv07glq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
